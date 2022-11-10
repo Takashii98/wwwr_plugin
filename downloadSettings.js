@@ -107,11 +107,11 @@ function downloadSettings() {
 
          //Input Values
 
-         var colorBelowValue;
-         var colorSameValue;
-         var colorAboveValue;
-         var colorFriendValue;
-         var ItemSizeValue;
+         //var colorBelowValue;
+         //var colorSameValue;
+         //var colorAboveValue;
+         //var colorFriendValue;
+         //var ItemSizeValue;
 
          let obj = {
             CenterPlayer: CenterPlayerValue.toString(),
