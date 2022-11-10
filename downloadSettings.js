@@ -1,5 +1,5 @@
 function downloadSettings() {
-            //Array for differen Values
+            //Array for different Values
             const ValueList = [];
 
             let obj = {
