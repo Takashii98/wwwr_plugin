@@ -1,6 +1,6 @@
 # wwwr_plugin
 
-Creates Json file tha looks like this:
+Creates Json file that looks like this:
 
 
 {
